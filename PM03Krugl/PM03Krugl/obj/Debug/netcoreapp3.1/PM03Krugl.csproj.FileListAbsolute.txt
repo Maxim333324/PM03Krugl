@@ -1,0 +1,13 @@
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.exe
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.deps.json
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.runtimeconfig.json
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.runtimeconfig.dev.json
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.dll
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\bin\Debug\netcoreapp3.1\PM03Krugl.pdb
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.csprojAssemblyReference.cache
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.AssemblyInfoInputs.cache
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.AssemblyInfo.cs
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.dll
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.pdb
+D:\Users\stu-pksp118\Desktop\src\PM03Krugl\PM03Krugl\obj\Debug\netcoreapp3.1\PM03Krugl.genruntimeconfig.cache
